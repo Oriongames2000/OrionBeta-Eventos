@@ -1,10 +1,8 @@
 {
-  "ativo": null,
-  "proximos": [
-    {
-      "nome": "Teste",
-      "inicio": "29/07/2026",
-      "fim": "31/07/2026"
-    }
-  ]
+  "ativo": {
+    "nome": "Teste",
+    "inicio": "29/07/2026",
+    "fim": "31/07/2026"
+  },
+  "proximos": []
 }
